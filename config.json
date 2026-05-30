@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configfync",
+        "uuid": 3938748,
+        "checksum": "0bsie"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
